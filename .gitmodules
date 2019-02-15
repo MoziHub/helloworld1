@@ -1,0 +1,3 @@
+[submodule "thirdpartymanager"]
+	path = thirdpartymanager
+	url = git@github.com:MoziHub/thirdpartymanager.git
